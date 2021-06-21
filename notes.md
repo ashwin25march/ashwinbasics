@@ -9,8 +9,8 @@ create new repo in git hub
 repo-folder
 ashwinbasics
 
-dowload and install git for windows
+download and install git for windows
 
 clone ashwinbasics to this pc
 clone-copy online repo
-git clone https://github.com/ashwin25march/ashwinbasics.git
+git clone https://github.com/ashwin
