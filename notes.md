@@ -17,6 +17,7 @@
 * clone ashwinbasics to this pc
 * clone-copy online repo
 * git clone https://github.com/ashwin
+* To checkin in git - Go to changes tab - click plus - type message - click tick icon - wait and then click 1 up icon
 
 ### java
 
