@@ -1,16 +1,28 @@
-ashwin
+# ashwin
 
-github-place where dev save code
+## ashwinbasics
 
-create new account in git hub
-ashwin.25march@gmail.com 
+### vscode
+* vscode is IDE for coding in several programming languages
+* download and install vscode from vscode website
 
-create new repo in git hub
-repo-folder
-ashwinbasics
+### github
+* github is a place where dev save code
+* multiple dev can work here at same time
+* create new account in github - ashwin.25march@gmail.com 
+* create new repo in git hub
+* repo - folder
+* ashwinbasics
+* download and install git for windows
+* clone ashwinbasics to this pc
+* clone-copy online repo
+* git clone https://github.com/ashwin
 
-download and install git for windows
+### java
 
-clone ashwinbasics to this pc
-clone-copy online repo
-git clone https://github.com/ashwin
+
+### python
+
+
+
+
