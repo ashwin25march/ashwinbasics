@@ -8,3 +8,5 @@ print("7")
 print("8")
 print("9")
 print("10")
+name="ashwin"
+print(11*name)
