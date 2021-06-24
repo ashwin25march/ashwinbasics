@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "src/java/2 print",
         "src/java/1 print",
-        "src/java/2 print"
+        "src/java/3 print"
     ]
 }
