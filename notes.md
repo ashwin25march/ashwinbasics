@@ -26,4 +26,8 @@
 
 
 
+### loop
+loop means running again and again
+like circle
 
+## while loop
