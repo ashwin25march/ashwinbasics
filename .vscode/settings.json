@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "src/java/4 while",
         "src/java/2 print",
         "src/java/1 print",
-        "src/java/4 while"
+        "src/java/3 print"
     ]
 }

@@ -13,7 +13,7 @@
 * create new repo in git hub
 * repo - folder
 * ashwinbasics
-* download and install git for windows
+* download and install github for windows
 * clone ashwinbasics to this pc
 * clone-copy online repo
 * git clone https://github.com/ashwin25march/ashwinbasics.git (https://github.com/ashwin - wrong link.)
